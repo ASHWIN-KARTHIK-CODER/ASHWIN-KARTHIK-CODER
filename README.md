@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... HTML,CSS, JS, REACT NATIVE AND ALL
 - 💞️ I’m looking to collaborate on ... WEB DEVOLOPEMENT PROJECTS 
 - 📫 How to reach me ... LINKDIN www.linkedin.com/in/ramadugu-ashwin-kumar-648a38312
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... 
 - ⚡ Fun fact: ... TECH Enthusiast & Innovative Problem Solver AND FOODIE
 
 <!---
